@@ -27,5 +27,8 @@ NOTES
 -- Princípio de Responsabilidade Única (SRP):
     Uma classe deve ter um e apenas um motivo para ser alterada
 
-
+-- Princípio Aberto/Fechado (OCP):
+    Um sistema deve ser aberto para a extensão, mas fechado para a modificação
+    Devemos poder criar novas funcionalidades e estender o sistema sem precisar
+    modificar muitas classes já existentes
 
