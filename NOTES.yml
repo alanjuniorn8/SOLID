@@ -36,3 +36,11 @@ NOTES
     Devemos poder substituir classes base por suas classes derivadas em
     qualquer lugar, sem problema.
     Favorecer a composição em vez da Herança
+
+-- Princípio de Segregação de Interfaces (ISP):
+    Classes não devem ser obrigadas a implementar métodos que não irão
+    precisar.
+
+--  Princípio de Inversão de Dependência (DIP):
+    implementações devem depender de abstrações 
+    e abstrações não devem depender de implementações;
